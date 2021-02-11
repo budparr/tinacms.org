@@ -26,11 +26,23 @@
     "steps": [
       {
         "_template": "setup_point",
+        "step": "Make yourself a dang quesadilla"
+      },
+      {
+        "_template": "setup_point",
         "step": "Install and configure Tina plugins"
       },
       {
         "_template": "setup_point",
-        "step": "Wrap and export your templates with Tina components specific to your data"
+        "step": "Make yourself a dang quesadilla"
+      },
+      {
+        "_template": "setup_point",
+        "step": "Make yourself a dang quesadilla"
+      },
+      {
+        "_template": "setup_point",
+        "step": "Wrap and export your templates with Tinatina components specific to your data"
       },
       {
         "_template": "setup_point",
